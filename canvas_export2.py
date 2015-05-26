@@ -244,7 +244,7 @@ while incomplete:
     if 'rel=\"next\"' not in r.headers["link"]:
         incomplete = False
 '''
-accounts = [75,76,77,78,79,1]
+accounts = [75,76,77,78,79,1] #You'd need to replace these account numbers
 
 for account in accounts:
     print "getting users account "+str(account)
