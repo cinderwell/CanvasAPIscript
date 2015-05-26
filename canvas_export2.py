@@ -82,7 +82,7 @@ api_token = "<your canvas api token>"
 
 
 #os.environ.get("CANVAS_API_KEY")
-base_url = "https://fxw.instructure.com/api/v1"
+base_url = "https://YOURPREFIX.instructure.com/api/v1"
 settings = {
     "params": {
         "per_page": 250
