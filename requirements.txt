@@ -1,0 +1,5 @@
+SQLAlchemy==0.9.8
+
+requests==2.4.3
+underscore.py==0.1.6
+HTMLParser==0.0.2
